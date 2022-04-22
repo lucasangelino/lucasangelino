@@ -8,7 +8,7 @@
 ### 📝 Porfolio [Porfolio con mi últimos desarrollos:](https://portfolio-five-ashy-90.vercel.app/)
 
 <a href='https://portfolio-five-ashy-90.vercel.app/' target='_blank'>
-  <img width='30%' src='https://user-images.githubusercontent.com/28304014/164815941-c93d3dce-ec60-4a51-9eff-bb7ca9fbdf12.jpg' alt='portfolio image' />
+  <img width='200' height='200' src='https://user-images.githubusercontent.com/28304014/164815941-c93d3dce-ec60-4a51-9eff-bb7ca9fbdf12.jpg' alt='portfolio image' />
 </a>
 
 <a href='https://portfolio-five-ashy-90.vercel.app/' target='_blank'>
