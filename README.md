@@ -1,12 +1,9 @@
-<p align="center" width="300">
-   <img align="center" width="200" border-radius="100%" src="https://res.cloudinary.com/dhgnh6tdp/image/upload/v1654557818/Personal/lucas_angelino_pic_ikglbt.jpg" />
-   <h3 align="center">¡Hola 👋! Soy Lucas Angelino 👨🏻‍💻</h3>
-   <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 5 años experiencia. </p>
-</p>
+<img align="center" width="200" border-radius="100%" src="https://res.cloudinary.com/dhgnh6tdp/image/upload/v1654557818/Personal/lucas_angelino_pic_ikglbt.jpg" />
 
 
-<h1 align="center">Hi 👋, I'm Lucas Angelino</h1>
-<h3 align="center">A passionate Full Stack dev engineer</h3>
+
+<h1 align="center">Hola 👋, soy Lucas Angelino</h1>
+<h3 align="center">Desarrollador Full Stack - Ingeniero de Software</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasangelino" alt="lucasangelino" /></a> </p>
