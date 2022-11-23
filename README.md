@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola 👋, soy Lucas Angelino</h1>
-<h3 align="center">Desarrollador Full Stack - Ingeniero de Software</h3>
+<h3 align="center" margin="100px">Desarrollador Full Stack - Ingeniero de Software</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasangelino" alt="lucasangelino" /></a> </p>
