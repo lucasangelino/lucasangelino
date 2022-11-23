@@ -1,6 +1,6 @@
+<p>
 <img align="center" width="200" border-radius="100%" src="https://res.cloudinary.com/dhgnh6tdp/image/upload/v1654557818/Personal/lucas_angelino_pic_ikglbt.jpg" />
-
-
+</p>
 
 <h1 align="center">Hola 👋, soy Lucas Angelino</h1>
 <h3 align="center">Desarrollador Full Stack - Ingeniero de Software</h3>
