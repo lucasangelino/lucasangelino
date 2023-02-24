@@ -6,7 +6,7 @@
 <h3 align="center" margin-top="50px">Desarrollador Full Stack - Ingeniero de Software</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasangelino&margin-w=15" alt="lucasangelino" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasangelino&margin-w=15&column=3" alt="lucasangelino" /></a> </p>
 
 <h3 align="left">🚀Connect with me:</h3>
 <p align="left">
