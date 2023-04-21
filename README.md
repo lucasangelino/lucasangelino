@@ -1,6 +1,7 @@
 ## Hello World 👋 It's Lucas Angelino
 I'm a Full Stack developer, fan of web development. [React](https://reactjs.org). [AstroJs](https://astro.build/). [Svelte](https://svelte.dev/).
-
+<br/>
+I love Hicking and nature ❤
 <br/>
 
 <a href="https://twitter.com/Lukio55160780">
