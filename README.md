@@ -15,7 +15,7 @@ I'm a Full Stack developer, fan of web development. [React](https://reactjs.org)
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="profile-pic.jpeg" width="240px" />
 
 <br />
 
