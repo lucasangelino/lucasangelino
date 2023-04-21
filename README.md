@@ -1,5 +1,5 @@
 ## Hello World 👋 It's Lucas Angelino
-I'm a Full Stack developer, fan of web development. [React](https://reactjs.org). [AstroJs](https://astro.build/). [Svelte](https://svelte.dev/.
+I'm a Full Stack developer, fan of web development. [React](https://reactjs.org). [AstroJs](https://astro.build/). [Svelte](https://svelte.dev/).
 
 <br/>
 
@@ -24,7 +24,7 @@ I'm a Full Stack developer, fan of web development. [React](https://reactjs.org)
 - 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
 - 🌱 I’m currently working in Awesome projects.
 - 👯 Member of different Developer Communities.
-- 💬 Creating content in (BETA) [my blog](https://main--deluxe-praline-fda483.netlify.app/),
+- 💬 Creating content in [my blog](https://main--deluxe-praline-fda483.netlify.app/) (BETA - Not released yet),
 <br />
 
 ## Languages and Tools
