@@ -9,7 +9,7 @@ I love Hicking and nature ❤
 </a>
 <a href="https://www.linkedin.com/in/lucas-nicolas-angelino/" target='_blank'>
 <img align="left" alt="Lucas Angelino LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>ins
+</a>
 <a href="https://www.instagram.com/lucas.angelino/" target='_blank'>
 <img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
