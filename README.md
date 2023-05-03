@@ -26,6 +26,18 @@ I love Hicking and nature ❤
 - 🌱 I’m currently working in Awesome projects.
 - 👯 Member of different Developer Communities.
 - 💬 Creating content in [my blog](https://main--deluxe-praline-fda483.netlify.app/) (BETA - Not released yet),
+ <br /><br />
+ 
+<a href="https://github.com/reactjs/es.react.dev" target='_blank'>
+<img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
+  Contributing translating React Dev Docs to Spanish
+</a>
+<br />
+
+<a href="/" target='_blank'>
+<img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/devicon-original.svg?size=128&color=currentColor" />
+  Contributing with Open Source Software
+</a>
 <br />
 
 ## Languages and Tools
