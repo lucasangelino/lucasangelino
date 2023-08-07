@@ -29,7 +29,7 @@ I love Hicking and nature ❤
  <br /><br />
  
 <a href="https://github.com/reactjs/es.react.dev" target='_blank'>
-<img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
+<img style="color: red" align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
   Contributing translating React Dev Docs to Spanish
 </a>
 <br />
