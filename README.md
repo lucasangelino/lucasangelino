@@ -16,7 +16,7 @@ I love Hicking and nature ❤
 
 <br />
 
-<img align="right" alt="GIF" src="profile-pic.JPEG" width="240px" />
+<img align="right" alt="GIF" src="profile-pic.JPEG" width="240px" style="border-radius: '20px' " />
 
 <br />
 
