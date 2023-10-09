@@ -48,4 +48,4 @@ I love Hicking and Nature ❤
 
 ---
 
-![Lucas Angelino's github stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&hide_border=true)
+![Lucas Angelino's github stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&hide_border=true_&theme=transparent)
