@@ -47,7 +47,5 @@ I love Hicking and Nature ❤
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ---
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasangelino&hide_progress=true&theme=dracula)
 
