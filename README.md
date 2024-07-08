@@ -21,7 +21,7 @@ I love Hicking and Nature ❤
 <br />
 
 ## Links
-- 📃 [Resume]([[https://www.jpmorgan.com/AR/en/about-us](https://lucasangelinocv.vercel.app/)](https://lucasangelinocv.vercel.app/)).
+- 📃 ([Online Resume](https://lucasangelinocv.vercel.app/)](https://lucasangelinocv.vercel.app/)).
 
 
 ## What i'm up to
