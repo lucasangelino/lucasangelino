@@ -31,18 +31,6 @@ I love Hicking and Nature ❤
 - 🌱 I’m currently working in Awesome projects.
 - 👯 Member of different Developer Communities.
  <br />
- 
-<a href="https://github.com/reactjs/es.react.dev" target='_blank'>
-<img style="color: red" align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
-  Contributing translating React Dev Docs to Spanish
-</a>
-<br />
-
-<a href="/" target='_blank'>
-<img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/devicon-original.svg?size=128&color=currentColor" />
-  Contributing with Open Source Software
-</a>
-<br />
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasangelino&hide_progress=true&theme=dracula)
