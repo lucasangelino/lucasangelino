@@ -21,7 +21,8 @@ I love Hicking and Nature ❤
 <br />
 
 ## Links
-- 📃 ([Online Resume](https://lucasangelinocv.vercel.app/)
+- 📃 [Online Resume](https://lucasangelinocv.vercel.app/)
+- 💻 [Portfolio](https://lucasangelinoportfolio.vercel.app/)
 
 
 ## What i'm up to
