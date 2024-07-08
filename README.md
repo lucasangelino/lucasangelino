@@ -30,8 +30,7 @@ I love Hicking and Nature ❤
 - 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
 - 🌱 I’m currently working in Awesome projects.
 - 👯 Member of different Developer Communities.
-- 💬 Creating content in [my blog](https://main--deluxe-praline-fda483.netlify.app/) (BETA - Not released yet),
- <br /><br />
+ <br />
  
 <a href="https://github.com/reactjs/es.react.dev" target='_blank'>
 <img style="color: red" align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
