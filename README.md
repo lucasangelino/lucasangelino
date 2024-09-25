@@ -16,10 +16,6 @@ I love Hicking and Nature ❤
 
 <br />
 
-<img align="right" alt="GIF" src="profile-pic.JPEG" width="240px" />
-
-<br />
-
 ## Links
 - 📃 [Online Resume](https://lucasangelinocv.vercel.app/)
 - 💻 [Portfolio](https://lucasangelinoportfolio.vercel.app/)
