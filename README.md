@@ -16,11 +16,6 @@ I love Hicking and Nature ❤
 
 <br />
 
-## Links
-- 📃 [Online Resume](https://lucasangelinocv.vercel.app/)
-- 💻 [Portfolio](https://lucasangelinoportfolio.vercel.app/)
-
-
 ## What i'm up to
 
 - 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
