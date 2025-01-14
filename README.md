@@ -16,13 +16,14 @@ I love Hicking and Nature ❤
 
 <br />
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&hide_border=true)
-
 ## What i'm up to
 
 - 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
 - 🌱 I’m currently working in Awesome projects.
 - 👯 Member of different Developer Communities.
  <br />
+ <br />
+
+ ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&hide_border=true)
 
 ---
