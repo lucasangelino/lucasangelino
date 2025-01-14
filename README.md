@@ -19,7 +19,7 @@ I love Hicking and Nature ❤
 ## What i'm up to
 
 - 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
-- 🌱 I’m currently working in Awesome projects.
+- 🌱 Working on AI project 🤖
 - 👯 Member of different Developer Communities.
  <br />
  <br />
