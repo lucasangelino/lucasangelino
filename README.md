@@ -13,17 +13,3 @@ I love Hicking and Nature ❤
 <a href="https://www.instagram.com/lucas.angelino/" target="_blank">
 <img align="left" alt="Lucas Angelino Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-
-<br />
-
-## What i'm up to
-
-- 🔭 I’m currently working @ [JP Morgan & Chase](https://www.jpmorgan.com/AR/en/about-us).
-- 🌱 Working on AI project 🤖
-- 👯 Member of different Developer Communities.
- <br />
- <br />
-
- ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasangelino&show_icons=true&hide_border=true)
-
----
